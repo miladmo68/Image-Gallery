@@ -16,10 +16,10 @@
 <p align="center">
   <img width="1920" height="1080" alt="Image-Gallery App" src="https://github.com/user-attachments/assets/your-image-id.png" />
 
-  </p>
+  </p>![Image-Gallery](https://github.com/user-attachments/assets/1569ec8f-2de2-43e4-87ea-cad436b2ddcf)
+
 
 ---
-![Image-Gallery](https://github.com/user-attachments/assets/726932cb-edc8-4b50-b6e8-2dc971dc6223)
 
 ## ​ Tech Stack
 
