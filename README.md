@@ -14,7 +14,10 @@
 ## ​ Screenshot
 
 <p align="center">
-  <img width="1920" height="1080" alt="Image-Gallery App" src="https://github.com/user-attachments/assets/your-image-id.png" />
+  <img alt="Gym-App"
+     src="[https://github.com/user-attachments/assets/597c5020-8644-4012-902c-24be55e933fc](https://github.com/user-attachments/assets/e25070d8-035a-4f44-9255-18f1abc31d72)"
+     width="1920" height="1080" loading="lazy" />
+
 </p>
 
 ---
