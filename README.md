@@ -14,9 +14,9 @@
 ## ​ Screenshot
 
 <p align="center">
-  <img width="1920" height="1080" alt="Image-Gallery App" src="https://github.com/user-attachments/assets/your-image-id.png" />
+  <img width="1920" height="1080" alt="Image-Gallery App" src="[https://github.com/user-attachments/assets/your-image-id.png](https://github-production-user-asset-6210df.s3.amazonaws.com/78246624/478521468-1569ec8f-2de2-43e4-87ea-cad436b2ddcf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250815%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250815T174850Z&X-Amz-Expires=300&X-Amz-Signature=519ed14b418a37b1a146f98c06d99e52d0c7967df7bd9b00c58363065f560ac9&X-Amz-SignedHeaders=host)" />
 
-  </p>![Image-Gallery](https://github.com/user-attachments/assets/1569ec8f-2de2-43e4-87ea-cad436b2ddcf)
+  </p>
 
 
 ---
