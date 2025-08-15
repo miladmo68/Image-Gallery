@@ -14,12 +14,8 @@
 ## ​ Screenshot
 
 <p align="center">
-
-  <img width="1920" height="1080" alt="Image-Gallery App" src="(https://github.com/user-attachments/assets/981e95cd-84e6-48a0-adc1-06493636fd13" />
-
-
-  </p>
-
+  <img width="1920" height="1080" alt="Image-Gallery App" src="https://github.com/user-attachments/assets/your-image-id.png" />
+</p>
 
 ---
 
