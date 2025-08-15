@@ -14,11 +14,12 @@
 ## ​ Screenshot
 
 <p align="center">
-![Image-Gallery](https://github.com/user-attachments/assets/aaea4031-cd1f-4d0c-a845-2b6e81ea68ec)
+  <img width="1920" height="1080" alt="Image-Gallery App" src="https://github.com/user-attachments/assets/your-image-id.png" />
 
   </p>
 
 ---
+![Image-Gallery](https://github.com/user-attachments/assets/726932cb-edc8-4b50-b6e8-2dc971dc6223)
 
 ## ​ Tech Stack
 
